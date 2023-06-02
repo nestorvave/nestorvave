@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nestorvave&label=Profile%20views&color=0e75b6&style=flat" alt="nestorvave" /> </p>
 
-- 🌱 I’m currently learning **Nest Js**
+- 🌱 I’m currently learning **Ruby on Rails**
 
 - 💬 Ask me about **react**
 
