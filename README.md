@@ -10,7 +10,7 @@
   <h1 style="color: #333;">Welcome to My GitHub Profile 👋</h1>
 
   <h2 style="color: #333;">About Me</h2>
-  <p>Hi there! I'm <strong>Your Name</strong>, a Full Stack developer passionate about React and always eager to learn new technologies.</p>
+  <p>Hi there! I'm <strong>Nestor</strong>, a Full Stack developer passionate about React and always eager to learn new technologies.</p>
 
   <h2 style="color: #333;">Tech Stack</h2>
   <ul>
