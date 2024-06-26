@@ -1,24 +1,143 @@
-<h1 align="center">Hi 👋, I'm Nestor Vargas</h1>
-<h3 align="center">Hello! I am a front-end developer passionate about creating beautiful and functional user experiences for web and mobile applications. I love working with technologies like React, and Next to create interactive and scalable user interfaces. While my focus has been on front-end development, I'm also interested in expanding my knowledge into backend development, and I'm currently working on building those skills. I'm always looking for opportunities to learn new technologies and tools to improve my work and create better solutions for end users. Take a look at my repositories to see some of my projects, and feel free to reach out if you have any questions or want to collaborate on a project together.</h3>
+<!DOCTYPE html>
+<html lang="en">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nestorvave&label=Profile%20views&color=0e75b6&style=flat" alt="nestorvave" /> </p>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GitHub Profile - [Your Name]</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            background-color: #f0f0f0;
+            margin: 0;
+            padding: 0;
+        }
 
-- 🌱 I’m currently learning **Nest js**
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            background-color: #fff;
+            padding: 20px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            border-radius: 5px;
+        }
 
-- 💬 Ask me about **react**
+        h1 {
+            font-size: 24px;
+            color: #333;
+            margin-bottom: 10px;
+            border-bottom: 2px solid #333;
+            padding-bottom: 5px;
+        }
 
-- 📫 How to reach me **https://www.linkedin.com/in/nestorvave/**
+        .badge {
+            display: inline-block;
+            padding: 5px 10px;
+            margin: 5px 5px 0 0;
+            font-size: 14px;
+            font-weight: bold;
+            color: #fff;
+            border-radius: 3px;
+        }
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/nestorvave/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nestorvave/" height="30" width="40" /></a>
-</p>
+        .react { background-color: #61DAFB; }
+        .vite { background-color: #646CFF; }
+        .next { background-color: #000; color: #fff; }
+        .tailwind { background-color: #38B2AC; }
+        .mui { background-color: #0081CB; }
+        .styled { background-color: #DB7093; }
+        .css-modules { background-color: #1572B6; }
+        .redux { background-color: #764ABC; }
+        .git { background-color: #F05032; }
+        .chartjs { background-color: #FF6384; }
+        .postgresql { background-color: #336791; }
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" style="background-color:white" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" style="background-color:white" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+        .skills {
+            margin-top: 10px;
+            margin-bottom: 20px;
+        }
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nestorvave&show_icons=true&locale=en&layout=compact" alt="nestorvave" /></p>
+        .projects {
+            margin-bottom: 20px;
+        }
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nestorvave&show_icons=true&locale=en" alt="nestorvave" /></p>
+        .project {
+            margin-bottom: 10px;
+        }
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nestorvave&" alt="nestorvave" /></p>
+        .contact {
+            margin-top: 20px;
+            font-size: 16px;
+        }
+
+        .contact a {
+            display: inline-block;
+            margin-right: 10px;
+            text-decoration: none;
+            color: #333;
+            padding: 5px 10px;
+            background-color: #f0f0f0;
+            border: 1px solid #ccc;
+            border-radius: 3px;
+            transition: background-color 0.3s;
+        }
+
+        .contact a:hover {
+            background-color: #ccc;
+        }
+
+        .keywords {
+            margin-top: 20px;
+            font-style: italic;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <h1>GitHub Profile - [Your Name]</h1>
+
+        <div class="skills">
+            <h2>Technologies & Tools</h2>
+            <span class="badge react">React.js</span>
+            <span class="badge vite">Vite</span>
+            <span class="badge next">Next.js</span>
+            <span class="badge tailwind">Tailwind CSS</span>
+            <span class="badge mui">Material UI</span>
+            <span class="badge styled">Styled Components</span>
+            <span class="badge css-modules">CSS Modules</span>
+            <span class="badge redux">Redux</span>
+            <span class="badge git">Git</span>
+            <span class="badge chartjs">Chart.js</span>
+            <span class="badge postgresql">PostgreSQL</span>
+        </div>
+
+        <div class="projects">
+            <h2>Projects Highlights</h2>
+            <div class="project">
+                <p><strong>Project 1:</strong> Short description and link (if public)</p>
+                <!-- Replace the below image URL with your project screenshot URL -->
+                <img src="url_to_project_screenshot" alt="Project 1 Screenshot" style="max-width: 100%; height: auto;">
+            </div>
+            <div class="project">
+                <p><strong>Project 2:</strong> Short description and link (if public)</p>
+                <!-- Replace the below image URL with your project screenshot URL -->
+                <img src="url_to_project_screenshot" alt="Project 2 Screenshot" style="max-width: 100%; height: auto;">
+            </div>
+        </div>
+
+        <div class="contact">
+            <h2>How to Reach Me</h2>
+            <a href="https://www.linkedin.com/in/yourprofile" target="_blank">LinkedIn</a>
+            <a href="mailto:your.email@example.com">Email</a>
+            <a href="https://yourportfolio.com" target="_blank">Portfolio</a>
+        </div>
+
+        <div class="keywords">
+            <p>Frontend Developer, React.js, Vite, Next.js, Nest.js, Python, PostgreSQL, Tailwind CSS, Material UI, Styled Components, CSS Modules, Redux, Git, Chart.js, Internationalization</p>
+        </div>
+    </div>
+</body>
+
+</html>
