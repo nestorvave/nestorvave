@@ -1,24 +1,33 @@
-Hey there! I'm Nestor Vargas, a Full Stack developer specializing in React, with a passion for exploring and mastering new technologies. Here's a quick overview of my skill set and what you'll find in this repository:
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>GitHub Profile README</title>
+</head>
+<body style="font-family: Arial, sans-serif; line-height: 1.6; max-width: 800px; margin: 0 auto; padding: 20px; background-color: #f3f4f6;">
 
-Technology Stack
-Frontend: React (Next.js, Vite), Tailwind CSS, CSS Modules, Styled Components, Material UI
-Backend: Nest.js (Node.js), Python
-Database: PostgreSQL
-Other tools: Zustand, Redux, Chart.js, Git
-What You'll Find Here
-This repository showcases my work and personal projects where I apply the technologies mentioned above. Here are some highlights:
+  <h1 style="color: #333;">Welcome to My GitHub Profile 👋</h1>
 
-React Projects: Examples of applications built with Next.js and Vite, using Tailwind CSS for styling and Material UI for UI components.
-Backend Applications: Implementations using Nest.js for server-side logic, integrating PostgreSQL for data storage.
-State Management: Expertise in Zustand and Redux for efficient and scalable state management.
-Data Visualization: Utilization of Chart.js to create dynamic and insightful data visualizations.
-Code Samples
-Explore clean and well-documented code examples that reflect my commitment to high-quality software development. I focus on writing readable, maintainable code optimized for performance.
+  <h2 style="color: #333;">About Me</h2>
+  <p>Hi there! I'm <strong>Your Name</strong>, a Full Stack developer passionate about React and always eager to learn new technologies.</p>
 
-Always Learning
-I am dedicated to continuous learning and thrive in environments where I can expand my skill set and embrace new technologies. I'm eager to contribute to innovative projects and collaborate with driven teams.
+  <h2 style="color: #333;">Tech Stack</h2>
+  <ul>
+    <li><strong>Frontend:</strong> React (Next.js, Vite), Tailwind CSS, CSS Modules, Styled Components, Material UI</li>
+    <li><strong>Backend:</strong> Nest.js (Node.js), Python</li>
+    <li><strong>Database:</strong> PostgreSQL</li>
+    <li><strong>Other tools:</strong> Zustand, Redux, Chart.js, Git</li>
+  </ul>
 
-Contact Me
-Interested in discussing opportunities? Feel free to reach out via LinkedIn to connect and explore how my skills can benefit your team.
+  <h2 style="color: #333;">What You'll Find Here</h2>
+  <p>Explore projects showcasing my expertise in React applications, backed by Nest.js for robust server-side logic and PostgreSQL for data management. I emphasize clean, performant code and enjoy tackling new challenges.</p>
 
-Thank you for visiting my profile and exploring my projects! I look forward to future challenges and growth opportunities.
+  <h2 style="color: #333;">Get in Touch</h2>
+  <p>Let's connect! Reach out on <a href="https://www.linkedin.com/in/your-name/" style="color: #007bff; text-decoration: none;">LinkedIn</a> to discuss how I can contribute to your team with my skills and enthusiasm for technology.</p>
+
+  <hr>
+  <p style="color: #333;">Thanks for visiting!</p>
+
+</body>
+</html>
