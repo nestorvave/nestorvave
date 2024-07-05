@@ -15,8 +15,8 @@
   <ul>
     <li><strong>Frontend:</strong> React (Next.js, Vite), Tailwind CSS, CSS Modules, Styled Components, Material UI</li>
     <li><strong>Backend:</strong> Nest.js (Node.js), Python</li>
-    <li><strong>Database:</strong> PostgreSQL</li>
-    <li><strong>Other tools:</strong> Zustand, Redux, Chart.js, Git</li>
+    <li><strong>Database:</strong> PostgreSQL, Mongodb</li>
+    <li><strong>Other tools:</strong> Zustand, Redux, Chart.js, Git, Socket </li>
   </ul>
 
   <h2 style="color: #333;">What You'll Find Here</h2>
