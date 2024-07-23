@@ -23,7 +23,7 @@
   <p>Explore projects showcasing my expertise in React applications, backed by Nest.js for robust server-side logic and PostgreSQL for data management. I emphasize clean, performant code and enjoy tackling new challenges.</p>
 
   <h2 style="color: #333;">Get in Touch</h2>
-  <p>Let's connect! Reach out on <a href="https://www.linkedin.com/in/your-name/" style="color: #007bff; text-decoration: none;">LinkedIn</a> to discuss how I can contribute to your team with my skills and enthusiasm for technology.</p>
+  <p>Let's connect! Reach out on <a href="https://www.linkedin.com/in/nestorvave/" style="color: #007bff; text-decoration: none;">LinkedIn</a> to discuss how I can contribute to your team with my skills and enthusiasm for technology.</p>
 
   <hr>
   <p style="color: #333;">Thanks for visiting!</p>
